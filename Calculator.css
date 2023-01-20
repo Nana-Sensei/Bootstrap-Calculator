@@ -1,0 +1,33 @@
+.Row-1 {
+	color: white;
+	background-color: #848695;
+	margin-top: 50px;
+	height: 70px;
+	padding-top: 20px;
+	text-align: right;
+	border-width: 2px ;
+	border-color: #181818;
+}
+
+.Row-2 {
+	color: black;
+	background-color: #e0e0e0;
+	margin-top:0px;
+	height: 70px;
+	padding-top: 20px;
+	text-align: center;
+	border: 1px solid;
+	border-color: #89898a;
+}
+
+.Symbols {
+	color: black;
+	background-color: #f5923d;
+	height: 70px;
+	text-align: center;
+	padding-top: 20px;
+	border: 0.5px solid;
+	border-color: #89898a;
+
+
+}

@@ -1,0 +1,76 @@
+.bg-light {
+    background-color: #dd9f22 !important;
+}
+
+.nav-menu {
+    color: white;
+    padding-right: 50px;
+}
+
+element.style {
+}
+.carousel-slides {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 600px;
+}
+
+.hrzn-logo {
+    margin-left: 70px;
+}
+
+.nav-menus {
+    margin-right: 70px;
+}
+
+.card-item {
+    margin-top: 70px;
+    padding: 10px;
+    align-items: center;
+}
+
+.menu-btn {
+    background-color: #dd9f22;
+    border-color: #f4f4f4;
+}
+
+.Footer {
+    background-color: #935f2f;
+    margin-top: 100px;
+    height: 150px;
+    padding-top: 30px;
+}
+
+h3 { margin-top: 40px; }
+
+.content-card {
+    background-color: #f4f4f4;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 15px;
+    margin-top: 30px;
+}
+
+.caption {
+    color: black;
+}
+
+.row-content {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.sub-btn { color: white; background-color: black; 
+border-color: black;}
+
+.footer {
+    margin-top: 60px;
+    background-color: #935f2f;
+    padding-bottom: 30px;
+}
+
+.footer-text { color: white; }
